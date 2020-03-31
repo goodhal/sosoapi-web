@@ -179,7 +179,7 @@
         </div>
     </div>
     <!--footer-->
-    <div class="container-fliud">
+    <!--<div class="container-fliud">
     	<div id="contact" class="row featurette-links">
         	<div class=" links clearfix" >
             	<div class="col-lg-offset-4 col-lg-2  text-center">
@@ -197,7 +197,7 @@
                 </div>
            	</div>
        	</div>
-   	</div>
+   	</div>-->
 	<!-- PAGE LEVEL SCRIPTS -->
 	<jsp:include page="/jsp/common/footer.jsp"/>
 	<!-- baidu统计 -->

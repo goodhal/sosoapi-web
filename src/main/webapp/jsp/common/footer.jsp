@@ -12,7 +12,7 @@
                    <%--
                    		<p class="right">© 2015 <a href="http://www.miitbeian.gov.cn/" target="_blank" class="text-muted">闽ICP备15013674号</a></p>
                    --%>
-                   <p class="right">© 2015</p>
+                   <p class="right">© 2020</p>
                </footer>
             </div>
         </div>
